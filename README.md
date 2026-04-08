@@ -13,4 +13,4 @@
 - Me gusta mucho el deporte, voy bastante al gimnasio, juego un torneo de voley todos los findes de semana y aveces me junto a jugar al futbol con amigos.
 - Tambien me gusta leer libros de ficcion y de desarrollo personal.
 ## FOTO
-![Foto mia](blob:https://web.whatsapp.com/a57cbaea-ce50-4fd0-bff8-98243ab06d74)
+
