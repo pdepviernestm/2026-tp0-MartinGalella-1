@@ -13,4 +13,4 @@
 - Me gusta mucho el deporte, voy bastante al gimnasio, juego un torneo de voley todos los findes de semana y aveces me junto a jugar al futbol con amigos.
 - Tambien me gusta leer libros de ficcion y de desarrollo personal.
 ## FOTO
-
+![Imagen](https://github.com/pdepviernestm/2026-tp0-MartinGalella-1/blob/0b5e15ed382a2e74afa088dc986d7cf2366604c1/FotoMG.jpeg)
